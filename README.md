@@ -1,5 +1,4 @@
 SmartBrain Face Recognition App
-App Screenshot
 
 Table of Contents
 Introduction
@@ -13,25 +12,33 @@ SmartBrain is a React-based web application that allows users to detect faces in
 
 Features
 Face Detection: SmartBrain uses the Clarifai API to detect faces in images. Simply input the URL of an image, and the application will highlight the faces found.
+
 User Authentication: Users can create an account and log in to track the number of images they've submitted.
+
 Ranking System: Based on the number of submissions, users can see their rank, motivating them to use the application more.
+
 Technologies Used
 React: The core frontend framework used for building the user interface.
 CSS: Styling and animations.
 Clarifai API: The AI service used to detect faces in images.
 (Any other backend technology or database used, if any)
+
 Setup and Installation
 Clone the repository:
+
 bash
 Copy code
 git clone https://github.com/your_github_username/smartbrain.git
+
 Navigate into the project directory:
 bash
 Copy code
 cd smartbrain
+
 Install the necessary dependencies:
 Copy code
 npm install
+
 Start the development server:
 sql
 Copy code
