@@ -1,5 +1,8 @@
 SmartBrain Face Recognition App
 
+![image](https://github.com/vande012/smartbrain/assets/113120309/f0368c12-2416-4c3f-bbda-0b796fc778a9)
+
+
 Table of Contents
 Introduction
 Features
